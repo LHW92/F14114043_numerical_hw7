@@ -11,16 +11,6 @@ A = [ 4  -1   0  -1   0   0;
 % Right-hand side vector
 b = [0; -1; 9; 4; 8; 6];
 
-% % Coefficient matrix A
-% A = [ 4   1   1   0   1;
-%      -1  -3   1   1   0;
-%       2   1   5  -1  -1;
-%      -1  -1  -1   4   0;
-%       0   2  -1   1   4];
-% 
-% % Right-hand side vector
-% b = [6; 6; 6; 6; 6];
-
 % Tolerance and max iterations
 tol = 1e-6;
 maxIter = 1000;
